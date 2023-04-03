@@ -15,7 +15,7 @@ Overall, Charter schools surpassed the District schools in all metrics. The High
 
 Another trend is that larger school size and higher budget did not reflect higher test scores. The lower spending ranges (per student: <$585 - 630) and smaller school size (<1000 - 2000) were more successful. When student size and budget increases, it negatively influenced student achievement. 
 
-Refer to PyCitySchools_starter.ipynb for the following results: 
+Refer to PyCitySchools_starter.ipynb in the PyCitySchools folder for the following results: 
 * District Summary
 * School Summary
 * Highest-Performing Schools (by % Overall Passing)
