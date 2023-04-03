@@ -16,7 +16,4 @@ Overall, Charter schools surpassed the District schools in all metrics. The High
 Another trend is that larger school size and higher budget did not reflect higher test scores. The lower spending ranges (per student: <$585 - 630) and smaller school size (<1000 - 2000) were more successful. When student size and budget increases, it negatively influenced student achievement. 
 
 
-## District Summary 
-* A high level snapshot of the district's key metrics in a DataFrame
-The district summary table results: 
 
