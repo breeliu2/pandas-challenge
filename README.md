@@ -11,7 +11,7 @@ Out of the 15 schools presented, 7 of them were District schools and 8 were Char
 
 Total budget for each school showed the amount of money each school had to spend on school performance resources. The budget ranged from $248,087.00 at Holden High School to $3,124,928.00 at Bailey High School. 
 
-Overall, Charter schools surpassed the District schools in Average Math/Reading scores, and % Passing in Math/Reading and Overall. The Highest Performing schools were all Charter schools and the Lowest Performing schools were all District schools. 
+Overall, Charter schools surpassed the District schools in all metrics. The Highest Performing schools were all Charter schools and the Lowest Performing schools were all District schools. However, more analysis will be required to determine if the effect is due to school practices or the fact that Charter schools tend to serve smaller student populations.
 
 Another trend is that larger school size and higher budget did not reflect higher test scores. The lower spending ranges (per student: <$585 - 630) and smaller school size (<1000 - 2000) were more successful. When student size and budget increases, it negatively influenced student achievement. 
 
@@ -19,3 +19,4 @@ Another trend is that larger school size and higher budget did not reflect highe
 ## District Summary 
 * A high level snapshot of the district's key metrics in a DataFrame
 The district summary table results: 
+
